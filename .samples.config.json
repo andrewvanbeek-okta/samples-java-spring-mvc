@@ -1,7 +1,7 @@
 {
   "oktaSample": {
     "oidc": {
-      "oktaUrl": "https:vanbeektech.okta.com",
+      "oktaUrl": "https://vanbeektech.okta.com",
       "issuer": "https://vanbeektech.okta.com",
       "clientId": "0oa43ju51wQSUcS6b1t7",
       "clientSecret": "qxAY3XxXIZIMBAqzanpobdWGw9MbotZ2ROHu1Jsp",
